@@ -3,3 +3,7 @@
     width: 1500px;
     height: 500px;
 }
+
+.photo img {
+    width: 500px;
+}
