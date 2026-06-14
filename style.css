@@ -2,3 +2,8 @@ body {
     background-color: #ffffff00;
     color: #ffff;
 }
+
+.photo {
+    width: 1500px;
+    height: 500px;
+}
