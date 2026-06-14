@@ -6,4 +6,7 @@
 
 .photo img {
     width: 500px;
+    position: absolute;
+    top: 30px;
+    left: 30px;
 }
