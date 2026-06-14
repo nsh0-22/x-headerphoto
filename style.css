@@ -5,7 +5,8 @@
 }
 
 .photo img {
-    width: 500px;
+    width: 600px;
+    text-align: center;
     position: absolute;
     top: 30px;
     left: 30px;
