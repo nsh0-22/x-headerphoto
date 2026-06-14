@@ -6,8 +6,7 @@
 
 .photo img {
     width: 600px;
-    text-align: center;
-    position: absolute;
-    top: 30px;
-    left: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
